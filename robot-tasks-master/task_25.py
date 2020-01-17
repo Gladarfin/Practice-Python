@@ -6,7 +6,6 @@ from pyrob.api import *
 @task
 def task_2_2():
     pass
-
-
+    
 if __name__ == '__main__':
     run_tasks()
